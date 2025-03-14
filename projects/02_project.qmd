@@ -1,0 +1,15 @@
+---
+title: Heart Disease Prediction with Naive Bayes Classifier
+image: obesity.jpeg
+---
+## Summary
+This project investigates the use of the Naive Bayes classifier for predicting heart disease based on a dataset from Kaggle. The study evaluates multiple variations of Naive Bayes, including Gaussian, Bernoulli, and Categorical models, to determine the most effective approach. Results indicate that the categorical model performs best, achieving an accuracy of 85.7%. The analysis also examines the independence assumption of Naive Bayes, showing limitations in handling correlated predictors. While the model provides high interpretability, future work will focus on improving recall and testing more advanced classification methods such as Decision Trees and Random Forests.
+
+## Highlights
+- Utilized Naive Bayes classifiers (Gaussian, Bernoulli, and Categorical) for heart disease prediction.  
+- Analyzed feature distributions and data covariance to assess the model's assumptions.  
+- The categorical Naive Bayes model achieved the highest accuracy at 85.7%.  
+- Explored model aggregation to enhance predictive performance.  
+- Proposed future improvements, including larger datasets, additional predictors, and alternative machine learning methods.  
+
+*DOWNLOAD:* download [report](/Math_170S_Project.pdf) here

@@ -11,28 +11,49 @@
     "href": "projects.html",
     "title": "Yiting",
     "section": "",
-    "text": "Welcome! See what projects I have worked on!\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nProject 1\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome! See what projects I have worked on!\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPredicting Obesity Status Using Machine Learning\n\n\n\n\n\n\n\n\n\n\n\n\n\nHeart Disease Prediction with Naive Bayes Classifier\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/01_project.html",
     "href": "projects/01_project.html",
-    "title": "Project 1",
+    "title": "Predicting Obesity Status Using Machine Learning",
     "section": "",
     "text": "This project explores the prediction of obesity status using statistical and machine learning techniques. Leveraging a dataset from Kaggle, the study applies logistic regression and random forest models to classify individuals as “Obese” or “Not Obese.” The study emphasizes the importance of multicollinearity checks, model selection, and data preprocessing to improve predictive accuracy. Results show that while logistic regression provides interpretability, the random forest model achieves superior accuracy by capturing complex relationships. Future improvements include incorporating additional demographic features and testing more machine learning models such as Support Vector Machines (SVM) and Gradient Boosting Machines (GBM)."
   },
   {
     "objectID": "projects/01_project.html#summary",
     "href": "projects/01_project.html#summary",
-    "title": "Project 1",
+    "title": "Predicting Obesity Status Using Machine Learning",
     "section": "",
     "text": "This project explores the prediction of obesity status using statistical and machine learning techniques. Leveraging a dataset from Kaggle, the study applies logistic regression and random forest models to classify individuals as “Obese” or “Not Obese.” The study emphasizes the importance of multicollinearity checks, model selection, and data preprocessing to improve predictive accuracy. Results show that while logistic regression provides interpretability, the random forest model achieves superior accuracy by capturing complex relationships. Future improvements include incorporating additional demographic features and testing more machine learning models such as Support Vector Machines (SVM) and Gradient Boosting Machines (GBM)."
   },
   {
     "objectID": "projects/01_project.html#highlights",
     "href": "projects/01_project.html#highlights",
-    "title": "Project 1",
+    "title": "Predicting Obesity Status Using Machine Learning",
     "section": "Highlights",
     "text": "Highlights\n\nImplemented logistic regression and random forest models for obesity classification.\n\nConducted multicollinearity analysis using the Variance Inflation Factor (VIF).\n\nThe random forest model achieved nearly 100% training accuracy, outperforming logistic regression.\n\nIdentified significant predictors such as physical activity frequency, dietary habits, and genetic predisposition.\n\nProposed future improvements including feature expansion and advanced classification techniques.\n\nDOWNLOAD: download report here"
+  },
+  {
+    "objectID": "projects/02_project.html",
+    "href": "projects/02_project.html",
+    "title": "Heart Disease Prediction with Naive Bayes Classifier",
+    "section": "",
+    "text": "This project investigates the use of the Naive Bayes classifier for predicting heart disease based on a dataset from Kaggle. The study evaluates multiple variations of Naive Bayes, including Gaussian, Bernoulli, and Categorical models, to determine the most effective approach. Results indicate that the categorical model performs best, achieving an accuracy of 85.7%. The analysis also examines the independence assumption of Naive Bayes, showing limitations in handling correlated predictors. While the model provides high interpretability, future work will focus on improving recall and testing more advanced classification methods such as Decision Trees and Random Forests."
+  },
+  {
+    "objectID": "projects/02_project.html#summary",
+    "href": "projects/02_project.html#summary",
+    "title": "Heart Disease Prediction with Naive Bayes Classifier",
+    "section": "",
+    "text": "This project investigates the use of the Naive Bayes classifier for predicting heart disease based on a dataset from Kaggle. The study evaluates multiple variations of Naive Bayes, including Gaussian, Bernoulli, and Categorical models, to determine the most effective approach. Results indicate that the categorical model performs best, achieving an accuracy of 85.7%. The analysis also examines the independence assumption of Naive Bayes, showing limitations in handling correlated predictors. While the model provides high interpretability, future work will focus on improving recall and testing more advanced classification methods such as Decision Trees and Random Forests."
+  },
+  {
+    "objectID": "projects/02_project.html#highlights",
+    "href": "projects/02_project.html#highlights",
+    "title": "Heart Disease Prediction with Naive Bayes Classifier",
+    "section": "Highlights",
+    "text": "Highlights\n\nUtilized Naive Bayes classifiers (Gaussian, Bernoulli, and Categorical) for heart disease prediction.\n\nAnalyzed feature distributions and data covariance to assess the model’s assumptions.\n\nThe categorical Naive Bayes model achieved the highest accuracy at 85.7%.\n\nExplored model aggregation to enhance predictive performance.\n\nProposed future improvements, including larger datasets, additional predictors, and alternative machine learning methods.\n\nDOWNLOAD: download report here"
   },
   {
     "objectID": "index.html",
