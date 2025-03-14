@@ -1,11 +1,18 @@
 ---
-title: "Personal-website"
+title: "Yiting Wang"
+about: 
+  template: trestles
+  image: photo.png
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/YitingWang10
+    - text: LinkedIn
+      url: "https://linkedin.com"
+    - text: Email
+      url: "yitingwang10@g.ucla.edu"
+      icon: inbox-fill
+    - text: CV
+      url: "CV.pdf"
+toc: false
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
