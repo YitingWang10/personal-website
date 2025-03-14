@@ -5,5 +5,10 @@ title: "About"
 About this site
 
 ```{r}
-1 + 1
+1 *100
 ```
+
+```{r}
+runif(10)
+```
+

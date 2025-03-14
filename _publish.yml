@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: db7f29f4-42b5-4035-89e0-2669b8335407
+      url: 'https://yitingwang.netlify.app'

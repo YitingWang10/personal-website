@@ -2,11 +2,10 @@ project:
   type: website
 
 website:
-  title: "Yiting Wang"
+  title: "Yiting"
   navbar:
     left:
       - href: index.qmd
-        text: Home
         text: Home
       - about.qmd
 
