@@ -11,11 +11,10 @@ listing:
     fields:
       - title
       - image
-      - subtitle
     categories: false
 ---
 
-Welcome! See what projects that I have worked on!
+Welcome! See what projects I have worked on!
 
 :::project-listings
 :::
