@@ -1,6 +1,6 @@
 ---
 title: Predicting Obesity Status Using Machine Learning
-image: /img/obesity.jpeg
+image: /img/obesity.jpg
 ---
 ## Summary
 This project explores the prediction of obesity status using statistical and machine learning techniques. Leveraging a dataset from Kaggle, the study applies logistic regression and random forest models to classify individuals as "Obese" or "Not Obese." The study emphasizes the importance of multicollinearity checks, model selection, and data preprocessing to improve predictive accuracy. Results show that while logistic regression provides interpretability, the random forest model achieves superior accuracy by capturing complex relationships. Future improvements include incorporating additional demographic features and testing more machine learning models such as Support Vector Machines (SVM) and Gradient Boosting Machines (GBM).
