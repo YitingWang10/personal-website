@@ -1,9 +1,15 @@
 ---
 title: Project 1
+image: obesity.png
 ---
+## Summary
+This project explores the prediction of obesity status using statistical and machine learning techniques. Leveraging a dataset from Kaggle, the study applies logistic regression and random forest models to classify individuals as "Obese" or "Not Obese." The study emphasizes the importance of multicollinearity checks, model selection, and data preprocessing to improve predictive accuracy. Results show that while logistic regression provides interpretability, the random forest model achieves superior accuracy by capturing complex relationships. Future improvements include incorporating additional demographic features and testing more machine learning models such as Support Vector Machines (SVM) and Gradient Boosting Machines (GBM).
 
-somein
+## Highlights
+- Implemented logistic regression and random forest models for obesity classification.  
+- Conducted multicollinearity analysis using the Variance Inflation Factor (VIF).  
+- The random forest model achieved nearly 100% training accuracy, outperforming logistic regression.  
+- Identified significant predictors such as physical activity frequency, dietary habits, and genetic predisposition.  
+- Proposed future improvements including feature expansion and advanced classification techniques.  
 
-```{r}
-1
-```
+*DOWNLOAD:* download [report](/101C_Final_Paper.pdf) here
