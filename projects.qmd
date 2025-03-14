@@ -1,0 +1,22 @@
+---
+toc: false
+listing: 
+  - id: project-listings
+    contents:
+      - "/projects/*.qmd"
+    sort: false
+    sort-ui: false
+    filter-ui: true
+    type: grid
+    fields:
+      - title
+      - image
+      - subtitle
+    categories: false
+---
+
+Welcome! See what projects that I have worked on!
+
+:::project-listings
+:::
+

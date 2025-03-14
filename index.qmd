@@ -16,3 +16,12 @@ about:
       url: "CV.pdf"
 toc: false
 ---
+
+Yiting is a senior undergrad majoring in *Statistics B.S.* and *Cognitive Science B.S.*. She is also a 25Fall incoming Ph.D student for UIUC Psychology. She is excited to learn about spatial learning and memories. In her spare time, Yiting reads, cooks, takes walks and listen to music.
+
+## Education
+University of California, Los Angeles | Los Angeles, CA.  
+Bachelors in Statistics and Cognitive Science | Sept 2023- August 2025.  
+
+## Experience
+Yiting serves as a leading editor for the Undergrad Journal of Psychology at UCLA for 2 years. She led weekly discussions among editors to review submissions of psychology papers from undergraduate students. 

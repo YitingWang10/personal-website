@@ -4,6 +4,41 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\nrunif(10)\n\n [1] 0.4956783 0.6091179 0.6954834 0.9421881 0.2109639 0.4949580 0.6366129\n [8] 0.3092103 0.8763395 0.4547202"
+    "text": "About this site\n\nrunif(10)\n\n [1] 0.01633716 0.14747683 0.42046729 0.13896156 0.48798298 0.33543123\n [7] 0.48693456 0.69011058 0.20911014 0.04561750"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Yiting",
+    "section": "",
+    "text": "Welcome! See what projects that I have worked on!\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\nProject 1\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/01_project.html",
+    "href": "projects/01_project.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "somein\n\n1\n\n[1] 1"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yiting Wang",
+    "section": "",
+    "text": "Yiting is a senior undergrad majoring in Statistics B.S. and Cognitive Science B.S.. She is also a 25Fall incoming Ph.D student for UIUC Psychology. She is excited to learn about spatial learning and memories. In her spare time, Yiting reads, cooks, takes walks and listen to music."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yiting Wang",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA.\nBachelors in Statistics and Cognitive Science | Sept 2023- August 2025."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Yiting Wang",
+    "section": "Experience",
+    "text": "Experience\nYiting serves as a leading editor for the Undergrad Journal of Psychology at UCLA for 2 years. She led weekly discussions among editors to review submissions of psychology papers from undergraduate students."
   }
 ]
