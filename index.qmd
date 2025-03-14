@@ -12,9 +12,6 @@ about:
     - text: Email
       url: "mailto:yitingwang10@g.ucla.edu"
       icon: inbox-fill
-    - text: CV
-      href: "CV.pdf"
-      icon: file-text-fill
 toc: false
 ---
 
