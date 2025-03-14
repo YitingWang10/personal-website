@@ -13,7 +13,7 @@ about:
       url: "mailto:yitingwang10@g.ucla.edu"
       icon: inbox-fill
     - text: CV
-      href: CV.pdf
+      href: "CV.pdf"
       icon: file-text-fill
 toc: false
 ---
@@ -26,7 +26,7 @@ Bachelors in Statistics and Cognitive Science | Sept 2023- August 2025.
 
 ## Experience
 Leading Editor | [Undergrad Journal of Psychology at UCLA](https://urjp.psych.ucla.edu/)   
-Sept 2023- Now
- - led weekly discussions among editors to review submissions of psychology papers from undergraduate students
+Sept 2023- Now   
+Led weekly discussions among editors to review submissions of psychology papers from undergraduate students
  
  
