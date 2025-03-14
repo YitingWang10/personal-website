@@ -5,7 +5,7 @@ title: "About"
 About this site
 
 ```{r}
-1 *100
+1 +1
 ```
 
 ```{r}
