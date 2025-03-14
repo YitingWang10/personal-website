@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\nrunif(10)\n\n [1] 0.01633716 0.14747683 0.42046729 0.13896156 0.48798298 0.33543123\n [7] 0.48693456 0.69011058 0.20911014 0.04561750"
+    "text": "I am a researcher and data scientist with a strong background in cognitive science, statistics, and machine learning. My research endeavor spans computational vision, Bayesian modeling, and decision-making, with applications in health research and neuroscience. I have experience implementing machine learning models for medical imaging analysis, predictive modeling, and data-driven insights in psychology and healthcare. My recent projects include using deep learning to study visual memory in the brain and applying statistical models to predict health outcomes such as obesity and heart disease. I am passionate about leveraging data to uncover meaningful patterns, enhance human understanding, and drive innovation in cognitive science and artificial intelligence."
   },
   {
     "objectID": "projects.html",

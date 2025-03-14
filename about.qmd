@@ -2,10 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-
-```{r}
-runif(10)
-```
-
+I am a researcher and data scientist with a strong background in cognitive science, statistics, and machine learning. My research endeavor spans computational vision, Bayesian modeling, and decision-making, with applications in health research and neuroscience. I have experience implementing machine learning models for medical imaging analysis, predictive modeling, and data-driven insights in psychology and healthcare. My recent projects include using deep learning to study visual memory in the brain and applying statistical models to predict health outcomes such as obesity and heart disease. I am passionate about leveraging data to uncover meaningful patterns, enhance human understanding, and drive innovation in cognitive science and artificial intelligence.
