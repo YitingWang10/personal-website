@@ -10,10 +10,11 @@ about:
     - text: LinkedIn
       url: "www.linkedin.com/in/yitingwang10"
     - text: Email
-      url: "yitingwang10@g.ucla.edu"
+      url: "mailto:yitingwang10@g.ucla.edu"
       icon: inbox-fill
     - text: CV
-      url: "CV.pdf"
+      href: "CV.pdf"
+      icon: file-text-fill
 toc: false
 ---
 
