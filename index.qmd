@@ -8,7 +8,7 @@ about:
       text: Github
       href: https://github.com/YitingWang10
     - text: LinkedIn
-      url: "https://linkedin.com"
+      url: "www.linkedin.com/in/yitingwang10"
     - text: Email
       url: "yitingwang10@g.ucla.edu"
       icon: inbox-fill
